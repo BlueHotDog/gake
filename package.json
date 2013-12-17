@@ -1,0 +1,27 @@
+{
+  "name": "gake",
+  "version": "0.0.1",
+  "description": "\"Makes grunt tasks more maintainable\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BlueHotDog/gake.git"
+  },
+  "author": "BlueHotDog",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BlueHotDog/gake/issues"
+  },
+  "homepage": "https://github.com/BlueHotDog/gake",
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  },
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "lodash": "~2.4.1",
+    "wrench": "~1.5.4"
+  }
+}
