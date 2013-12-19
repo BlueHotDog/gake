@@ -1,3 +1,4 @@
+[![NPM version](https://badge.fury.io/js/gake.png)](http://badge.fury.io/js/gake)
 # Gake
 
   Gake is a simple grunt module which allows you to keep your grunt tasks/config separated into different files, much like
