@@ -1,6 +1,6 @@
 {
   "name": "gake",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Make loading grunt tasks/config from external files easy",
   "main": "index.js",
   "scripts": {
