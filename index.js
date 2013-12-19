@@ -1,2 +1,2 @@
 require('coffee-script');
-require('./lib/gake.coffee')
+module.exports = require('./lib/gake.coffee');

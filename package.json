@@ -1,7 +1,7 @@
 {
   "name": "gake",
   "version": "0.0.1",
-  "description": "\"Makes grunt tasks more maintainable\"",
+  "description": "Make loading grunt tasks/config from external files easy",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
@@ -22,6 +22,25 @@
   "dependencies": {
     "grunt": "~0.4.2",
     "lodash": "~2.4.1",
-    "wrench": "~1.5.4"
+    "coffee-script": "",
+    "wrench": "~1.5.4",
+    "mkdirp": "~0.3.5",
+    "dot": "~1.0.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4"
+  },
+  "keywords": [
+    "gruntplugin",
+    "gake",
+    "grunt",
+    "rake"
+  ],
+  "files": [
+    "lib",
+    "LICENSE-MIT"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
   }
 }
