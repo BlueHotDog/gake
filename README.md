@@ -69,4 +69,7 @@
 
   You can take a look at the test folder to see example directory structure and usage.
 
+# TODO
 
+  * Add real tests
+  * Add option to generate config/tasks using coffee-script
