@@ -64,5 +64,8 @@
 
     This loads all the tasks from the *tasksDir* by requiring all files in the *tasksDir* recursively.
 
+# Examples
+
+  You can take a look at the test folder to see example directory structure and usage.
 
 
