@@ -47,7 +47,7 @@
   ```
   which will generate only the config file.
 
-# Convention
+## Convention
 
   * **Configuration loading**
 
@@ -65,11 +65,11 @@
 
     This loads all the tasks from the *tasksDir* by requiring all files in the *tasksDir* recursively.
 
-# Examples
+## Examples
 
   You can take a look at the test folder to see example directory structure and usage.
 
-# TODO
+## TODO
 
   * Add real tests
   * Add option to generate config/tasks using coffee-script
