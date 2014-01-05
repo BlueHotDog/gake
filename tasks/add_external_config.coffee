@@ -5,6 +5,4 @@ class AddExternalConfig
     (new gake(grunt)).use()
 
 
-
-
 module.exports = AddExternalConfig.register.bind(AddExternalConfig)
