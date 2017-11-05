@@ -17,15 +17,15 @@
   },
   "homepage": "https://github.com/BlueHotDog/gake",
   "devDependencies": {
-    "mocha": "~1.15.1"
+    "mocha": "~4.0.1"
   },
   "dependencies": {
-    "grunt": "~0.4.2",
-    "lodash": "~2.4.1",
+    "grunt": "~1.0.1",
+    "lodash": "~4.17.4",
     "coffee-script": "",
     "wrench": "~1.5.4",
-    "mkdirp": "~0.3.5",
-    "dot": "~1.0.2"
+    "mkdirp": "~0.5.1",
+    "dot": "~1.1.2"
   },
   "peerDependencies": {
     "grunt": "~0.4"
