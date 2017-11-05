@@ -1,6 +1,8 @@
 [![NPM version](https://badge.fury.io/js/gake.png)](http://badge.fury.io/js/gake)
 # Gake
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BlueHotDog/gake.svg)](https://greenkeeper.io/)
+
   Gake is a simple grunt module which allows you to keep your grunt tasks/config separated into different files, much like
   rake.
 
